@@ -1,2 +1,2 @@
-# intermediate_bootstrap_landing
-Intermediate Bootstrap Landing Project
+# Intermediate Bootstrap Landing
+Intermediate Bootstrap Landing Project as per Angela Yu's Fullstack Training Course.
